@@ -1,5 +1,14 @@
-### Hi there 👋
+<h1 align="center">  Hi! I'm Federico 👋 </h1>
 
+<h3 align="center">Soy ...</h3>
+<img aling="right" alt="Coding" width="400" src="">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FedeBirge&label=Profile%20views&color=0e75b6&style=flat" alt="FedeBirge" /> </p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FedeBirge&show_icons=true&locale=en&layout=compact" alt="FedeBirge" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=FedeBirge&show_icons=true&locale=en" alt="FedeBirge" /></p>
+
+[! [GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FedeBirge&theme=ocean-dark&hide_border=verdadero&border_radius=4.7&locale=es&mode=weekly)](https://git.io/streak-stats) 
 <!--
 **FedeBirge/FedeBirge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
